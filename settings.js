@@ -11,13 +11,13 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti Your Key dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'Your Key', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'DVACgNPaDuaphA5', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "7252778072:AAGZzK7C5TX1UOaJuhA3CDtEqiXr_qqfK8E" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "Dreams_Stalkerbot" //your bot name
 global.OWNER_NAME = "andika" //your name
 global.OWNER_NUMBER = "6285789202053" //your telegram number
